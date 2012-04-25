@@ -17,3 +17,5 @@ Bedienmöglichkeiten:
 * Mit dem Browser ansurfen
 * status.png auf anderen Webseiten einbinden
 * in eigenen Skripten die api abfragen, liefert open, closed oder error
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=apoc&url=https://github.com/kaibloecker/foobot&title=foobot&language=de_DE&description=Statusbot%20der%20foobar&tags=github&category=software)
